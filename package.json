@@ -1,0 +1,14 @@
+{
+  "name": "mission-404",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MISSION 404: 원소 암호 맞추기",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.19.0"
+  }
+}
